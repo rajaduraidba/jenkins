@@ -98,7 +98,6 @@
 			<!-- For Tomcat -->
 			<plugin>
 				<groupId>org.apache.tomcat.maven</groupId>
-				<version>2.2</version>
 				<configuration>
 					<path>/CounterWebApp</path>
 				</configuration>
